@@ -14,6 +14,7 @@ namespace Disaheim
             return book.Price;
             // Returns the price of the book
 
+
         }
         public double GetValueOfAmulet(Amulet amulet) // Method to get the value of an amulet
         {
