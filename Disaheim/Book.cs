@@ -31,6 +31,7 @@ namespace Disaheim
         { 
             get { return _price; }
             set { _price = value;}
+
         }
 
         // Constructors
